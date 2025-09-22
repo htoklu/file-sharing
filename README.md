@@ -37,12 +37,11 @@ Only the compiled executable (`./sunucu`) is provided; the source code is kept p
 1- chmod +x sunucu
 2- ./sunucu
 
-If you find this project useful, you can support me with USDT.
-Every contribution helps me keep improving it. Thank you! 💖🚀💰
+If you find this project useful, you can support me with USDT 💖🚀💰
 
-Deposit USDT  Network=Tron(TR20)
+Network: Tron (TRC20)
 TPRPEBtS8YbTnETdzFSNQezTNeqKfHtsLY
+Every contribution helps me keep improving it. Thank you! 🌟🙏💵
 
-Support this project with USDT if you like it! 🌟🙏💵
 
 
