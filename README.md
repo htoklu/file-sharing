@@ -1,6 +1,11 @@
 # Sunucu / Sunucu File Sharing Tool
 
 ## 📌 Proje Hakkında / About the Project
+Türkçe:
+🌟📱💻 Aynı Wi-Fi/LAN ağı üzerindeyseniz, dosya paylaşımı çok kolay! 🚀📤✨
+
+İngilizce:
+🌟📱💻 If you're on the same Wi-Fi/LAN, sharing files is super easy! 🚀📤✨
 
 **Türkçe:**  
 Bu proje, Linux üzerinde dosya paylaşımını kolaylaştırmak için geliştirilmiş basit bir komut satırı programıdır.  
