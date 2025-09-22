@@ -30,7 +30,8 @@ Only the compiled executable (`./sunucu`) is provided; the source code is kept p
 ```bash
 ./sunucu
 
-If you find this project useful, you can support me with USDT. Every contribution helps me keep improving it. Thank you! 💖🚀💰
+If you find this project useful, you can support me with USDT.
+Every contribution helps me keep improving it. Thank you! 💖🚀💰
 
 Deposit USDT  Network=Tron(TR20)
 TPRPEBtS8YbTnETdzFSNQezTNeqKfHtsLY
