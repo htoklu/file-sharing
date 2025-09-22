@@ -3,11 +3,11 @@
 ## 📌 Proje Hakkında / About the Project
 
 **Türkçe:**  
-Bu proje, Kali Linux üzerinde dosya paylaşımını kolaylaştırmak için geliştirilmiş basit bir komut satırı programıdır.  
+Bu proje, Linux üzerinde dosya paylaşımını kolaylaştırmak için geliştirilmiş basit bir komut satırı programıdır.  
 Sadece derlenmiş çalıştırılabilir dosya (`./sunucu`) paylaşılmıştır; kaynak kod gizlidir.  
 
 **English:**  
-This project is a simple command-line tool for sharing files on Kali Linux.  
+This project is a simple command-line tool for sharing files on Linux.  
 Only the compiled executable (`./sunucu`) is provided; the source code is kept private.
 
 ---
