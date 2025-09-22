@@ -1,0 +1,29 @@
+# Sunucu / Sunucu File Sharing Tool
+
+## 📌 Proje Hakkında / About the Project
+
+**Türkçe:**  
+Bu proje, Kali Linux üzerinde dosya paylaşımını kolaylaştırmak için geliştirilmiş basit bir komut satırı programıdır.  
+Sadece derlenmiş çalıştırılabilir dosya (`./sunucu`) paylaşılmıştır; kaynak kod gizlidir.  
+
+**English:**  
+This project is a simple command-line tool for sharing files on Kali Linux.  
+Only the compiled executable (`./sunucu`) is provided; the source code is kept private.
+
+---
+
+## ⚙️ Kullanım / Usage
+**English:**
+1. Open the terminal and navigate to the folder where the program file is located.
+
+2. To run the program:
+
+```bash
+./sunucu
+
+
+**Türkçe:**  
+1. Terminali açın ve program dosyasının bulunduğu klasöre gidin.  
+2. Programı çalıştırmak için:  
+```bash
+./sunucu
