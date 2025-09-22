@@ -24,7 +24,8 @@ Only the compiled executable (`./sunucu`) is provided; the source code is kept p
 2. To run the program:
 
 ```bash
-./sunucu
+1- chmod +x ./sunucu
+2- ./sunucu
 
 
 **Türkçe:**  
@@ -33,7 +34,8 @@ Only the compiled executable (`./sunucu`) is provided; the source code is kept p
 
 2. Programı çalıştırmak için:  
 ```bash
-./sunucu
+1- chmod +x ./sunucu
+2- ./sunucu
 
 If you find this project useful, you can support me with USDT.
 Every contribution helps me keep improving it. Thank you! 💖🚀💰
