@@ -23,7 +23,14 @@ Only the compiled executable (`./sunucu`) is provided; the source code is kept p
 
 
 **Türkçe:**  
-1. Terminali açın ve program dosyasının bulunduğu klasöre gidin.  
+1. Terminali açın ve program dosyasının bulunduğu klasöre gidin.
+
+
 2. Programı çalıştırmak için:  
 ```bash
 ./sunucu
+
+Support this project with USDT if you like it. Thanks for your help!
+
+Deposit USDT  Network=Tron(TR20)
+TPRPEBtS8YbTnETdzFSNQezTNeqKfHtsLY
