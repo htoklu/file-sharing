@@ -1,25 +1,28 @@
 🌟 Server / File Sharing Tool – Step by Step Guide 🌟
 📌 About the Project
+English
 
-English (Linux):
-🌟📱💻 If you're on the same Wi-Fi/LAN, sharing files is super easy! 🚀📤✨
-This project is a simple command-line tool for sharing files on Linux.
-Only the compiled executable (./sunucu) is provided; the source code is kept private.
+Linux:
+If you're on the same Wi-Fi/LAN, sharing files is easy.
+A simple command-line tool for Linux.
+Only the compiled executable (./sunucu) is provided.
 
-English (Windows):
-🌟📱💻 If you're on the same Wi-Fi/LAN, sharing files is super easy! 🚀📤✨
-This project is a simple command-line tool for sharing files on Windows.
-Only the compiled executable (sunucu.exe) is provided; the source code is kept private.
+Windows:
+If you're on the same Wi-Fi/LAN, sharing files is easy.
+A simple command-line tool for Windows.
+Only the compiled executable (sunucu.exe) is provided.
 
-Türkçe (Linux):
-🌟📱💻 Aynı Wi-Fi/LAN ağı üzerindeyseniz, dosya paylaşımı çok kolay! 🚀📤✨
-Bu proje, Linux üzerinde dosya paylaşımını kolaylaştırmak için geliştirilmiş basit bir komut satırı programıdır.
-Sadece derlenmiş çalıştırılabilir dosya (./sunucu) paylaşılmıştır; kaynak kod gizlidir.
+Türkçe
 
-Türkçe (Windows):
-🌟📱💻 Aynı Wi-Fi/LAN ağı üzerindeyseniz, dosya paylaşımı çok kolay! 🚀📤✨
-Bu proje, Windows üzerinde dosya paylaşımını kolaylaştırmak için geliştirilmiş basit bir komut satırı programıdır.
-Sadece derlenmiş çalıştırılabilir dosya (sunucu.exe) paylaşılmıştır; kaynak kod gizlidir.
+Linux:
+Aynı Wi-Fi/LAN ağındaysanız, dosya paylaşımı çok kolay.
+Linux için basit bir komut satırı aracıdır.
+Sadece derlenmiş çalıştırılabilir dosya (./sunucu) paylaşılmıştır.
+
+Windows:
+Aynı Wi-Fi/LAN ağındaysanız, dosya paylaşımı çok kolay.
+Windows için basit bir komut satırı aracıdır.
+Sadece derlenmiş çalıştırılabilir dosya (sunucu.exe) paylaşılmıştır.
 
 ==============================
        💻 WINDOWS VERSION 💻
