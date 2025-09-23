@@ -26,7 +26,7 @@ Run: sunucu.exe
 
 Find IP: ipconfig (e.g., 192.168.1.64)
 
-Access: http://<your_ip_address>:8080
+Access: http://<pc_ip_address>:8080
 
 🌐 Linux – Usage
 
@@ -40,7 +40,7 @@ Run: chmod +x sunucu then ./sunucu
 
 Find IP (optional): ifconfig or ip a
 
-Access: http://<your_ip_address>:8080
+Access: http://<pc_ip_address>:8080
 
 💖 Support
 
