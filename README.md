@@ -1,4 +1,5 @@
 🌟 Server / File Sharing Tool – Step by Step Guide 🌟
+
 📌 About the Project
 
 Linux:
@@ -12,6 +13,7 @@ A simple command-line tool for Windows.
 Only the compiled executable (sunucu.exe) is provided.
 
 🌟 Server / File Sharing Tool – Step by Step Guide 🌟
+
 💻 Windows – Usage
 
 About: Simple CLI tool for Windows. Only sunucu.exe is provided.
