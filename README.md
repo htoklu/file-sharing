@@ -1,4 +1,4 @@
-🌟 Server / File Sharing Tool – Step by Step Guide 🌟
+🌟 Server / File Sharing Tool 🌟
 
 📌 About the Project
 
