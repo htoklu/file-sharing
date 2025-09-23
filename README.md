@@ -24,59 +24,64 @@ Aynı Wi-Fi/LAN ağındaysanız, dosya paylaşımı çok kolay.
 Windows için basit bir komut satırı aracıdır.
 Sadece derlenmiş çalıştırılabilir dosya (sunucu.exe) paylaşılmıştır.
 
-==============================
-       💻 WINDOWS VERSION 💻
-==============================
+🌟 Server / File Sharing Tool – Step by Step Guide 🌟
+English
+💻 Windows – Usage
 
-📌 About the Project
-If you're on the same Wi-Fi/LAN, sharing files is easy.
-This is a simple command-line tool for Windows.
-Only the compiled executable (sunucu.exe) is provided.
+About: Simple CLI tool for Windows. Only sunucu.exe is provided.
 
-⚙️ Usage – Step by Step
+Steps:
 
-1️⃣ Open CMD or PowerShell
-   cd C:\Users\Halim\Downloads
+Open CMD/PowerShell: cd C:\path\to\folder
 
-2️⃣ Run the Program
-   sunucu.exe
+Run: sunucu.exe
 
-3️⃣ Find Your IP
-   ipconfig
-   Example: 192.168.1.64
+Find IP: ipconfig (e.g., 192.168.1.64)
 
-4️⃣ Access from Another Device
-   Open a web browser and type:
-   http://<your_ip_address>:8080
-   Example: http://192.168.1.64:8080
+Access: http://<your_ip_address>:8080
 
-==============================
-       🌐 LINUX VERSION 🌐
-==============================
+🌐 Linux – Usage
 
-📌 About the Project
-If you're on the same Wi-Fi/LAN, sharing files is easy.
-This is a simple command-line tool for Linux.
-Only the compiled executable (./sunucu) is provided.
+About: Simple CLI tool for Linux. Only ./sunucu is provided.
 
-⚙️ Usage – Step by Step
+Steps:
 
-1️⃣ Open Terminal
-   cd /path/to/folder
+Open Terminal: cd /path/to/folder
 
-2️⃣ Run the Program
-   1- chmod +x sunucu
-   2- ./sunucu
+Run: chmod +x sunucu then ./sunucu
 
-3️⃣ Find Your IP (Optional)
-   ifconfig   (or ip a)
-   Example: 192.168.1.64
+Find IP (optional): ifconfig or ip a
 
-4️⃣ Access from Another Device
-   Open a web browser and type:
-   http://<your_linux_ip_address>:8080
-   Example: http://192.168.1.64:8080
+Access: http://<your_ip_address>:8080
 
+Türkçe
+💻 Windows – Kullanım
+
+Hakkında: Basit Windows CLI aracı. Sadece sunucu.exe var.
+
+Adımlar:
+
+CMD/PowerShell aç: cd C:\path\to\folder
+
+Çalıştır: sunucu.exe
+
+IP bul: ipconfig (örn: 192.168.1.64)
+
+Başka cihazdan eriş: http://<your_ip_address>:8080
+
+🌐 Linux – Kullanım
+
+Hakkında: Basit Linux CLI aracı. Sadece ./sunucu var.
+
+Adımlar:
+
+Terminal aç: cd /path/to/folder
+
+Çalıştır: chmod +x sunucu ve ./sunucu
+
+IP bul (opsiyonel): ifconfig veya ip a
+
+Başka cihazdan eriş: http://<your_ip_address>:8080
 
 💖 Support / Destek
 
