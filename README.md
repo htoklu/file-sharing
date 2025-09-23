@@ -62,8 +62,8 @@ Only the compiled executable (./sunucu) is provided.
    cd /path/to/folder
 
 2️⃣ Run the Program
-   chmod +x sunucu
-   ./sunucu
+   1- chmod +x sunucu
+   2- ./sunucu
 
 3️⃣ Find Your IP (Optional)
    ifconfig   (or ip a)
